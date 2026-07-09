@@ -1,0 +1,180 @@
+<div id="reel" style="width: 1200%; height: auto; opacity: 1; float: right; margin-right: -434.656px;">
+		<div class="slide" order="0" style="float:right;position:relative;width:8.3333333333333%;">
+			<div id="publisher">الناشر: دار عصافير</div>			<picture class="slide-image" style="width:100%;">
+				<source srcset="https://static.3asafeer.com/stories/26/images/cover.webp" type="image/webp">
+				<source srcset="https://static.3asafeer.com/stories/26/images/cover.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="https://static.3asafeer.com/stories/26/images/cover.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-0">حَفْلَةٌ في الغابَةِ</div>
+				<input type="hidden" id="slide-script-0" value="حَفْلَةٌ في الغابَةِ">
+				<input type="hidden" id="slidemap-0" value="0.342009,0.810611,0.2602040000000001">
+			</div>
+						<audio id="audio-0" autoplay="">
+				<source src="https://static.3asafeer.com/stories/26/audio/cover.mp3">
+				<source src="https://static.3asafeer.com/stories/26/audio/cover.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="1" style="float:right;position:relative;width:8.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-00.webp" type="image/webp">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-00.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="https://static.3asafeer.com/stories/26/images/scene-00.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-1">أَيْنَ ذَهَبَتْ جَميعُ حَيَواناتِ الغابَةِ؟</div>
+				<input type="hidden" id="slide-script-1" value="أَيْنَ ذَهَبَتْ جَميعُ حَيَواناتِ الغابَةِ؟">
+				<input type="hidden" id="slidemap-1" value="0.293815,0.335814,0.562006,0.5033890000000001,0.9327320000000001">
+			</div>
+						<audio id="audio-1" autoplay="">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-00.mp3">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-00.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="2" style="float:right;position:relative;width:8.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-01.webp" type="image/webp">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-01.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="https://static.3asafeer.com/stories/26/images/scene-01.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-2">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-2" value="دُبٌّ بُنِّيٌّ قَرَعَ الطَّبْلَ. دُمْ دُمْ تَكْ تَكْ">
+				<input type="hidden" id="slidemap-2" value="0.524234,0.6814080000000001,1.099932,0.5493429999999999,0.986183,0.5830400000000004,0.5256619999999996,0.47722399999999965">
+			</div>
+						<audio id="audio-2">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-01.mp3">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-01.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="3" style="float:right;position:relative;width:8.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-02.webp" type="image/webp">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-02.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="https://static.3asafeer.com/stories/26/images/scene-02.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-3">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-3" value="قِطٌّ أَحْمَرُ عَزَفَ النّايَ. تُتُّ رُرُتُّ">
+				<input type="hidden" id="slidemap-3" value="0.215187,0.662741,0.7291380000000001,0.6188819999999997,0.8341230000000004,0.36983799999999967">
+			</div>
+						<audio id="audio-3">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-02.mp3">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-02.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="4" style="float:right;position:relative;width:8.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-03.webp" type="image/webp">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-03.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="https://static.3asafeer.com/stories/26/images/scene-03.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-4">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-4" value="نَمِرٌ أَصْفَرُ، صَرَخَ وَزَمْجَرَ. عَ عُ عِ عَ">
+				<input type="hidden" id="slidemap-4" value="0.194358,0.7891,0.9924529999999999,0.7355320000000001,1.307963,0.5103949999999999,0.4796339999999999,0.4382929999999998">
+			</div>
+						<audio id="audio-4">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-03.mp3">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-03.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="5" style="float:right;position:relative;width:8.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-04.webp" type="image/webp">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-04.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="https://static.3asafeer.com/stories/26/images/scene-04.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-5">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-5" value="قِرْدٌ أَبْيَضُ صَفَّقَ الصَّنْجَ. تِشْ تُشْ تِشْ تُشْ">
+				<input type="hidden" id="slidemap-5" value="0.24874,0.7121780000000001,0.8868969999999999,0.6334690000000001,1.111211,0.5913249999999999,0.5694650000000001,0.6154109999999999">
+			</div>
+						<audio id="audio-5">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-04.mp3">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-04.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="6" style="float:right;position:relative;width:8.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-05.webp" type="image/webp">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-05.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="https://static.3asafeer.com/stories/26/images/scene-05.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-6">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-6" value="رَقَصَ الفيْلُ وَهَزَّ الغابَةَ. دِجْ دُجْ دِجْ دُجْ">
+				<input type="hidden" id="slidemap-6" value="0.308268,0.7206840000000001,0.8908389999999999,0.655395,0.9305500000000002,0.5726489999999997,0.7106710000000005,0.7076819999999993">
+			</div>
+						<audio id="audio-6">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-05.mp3">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-05.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="7" style="float:right;position:relative;width:8.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-06.webp" type="image/webp">
+				<source srcset="https://static.3asafeer.com/stories/26/images/scene-06.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="https://static.3asafeer.com/stories/26/images/scene-06.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-7">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-7" value="ضَحِكَ الأَسَدُ... مَلِكُ الغابَةِ: ما أَجْمَلَكَ يا حَفْلَ الغابَةِ!">
+				<input type="hidden" id="slidemap-7" value="0.336223,0.687076,0.811224,0.633772,2.777231,0.2999390000000002,0.8919540000000001,0.21443600000000007,0.563955">
+			</div>
+						<audio id="audio-7">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-06.mp3">
+				<source src="https://static.3asafeer.com/stories/26/audio/scene-06.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="8" style="float:right;position:relative;width:8.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="https://static.3asafeer.com/stories/26/images/end-scene.webp" type="image/webp">
+				<source srcset="https://static.3asafeer.com/stories/26/images/end-scene.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="https://static.3asafeer.com/stories/26/images/end-scene.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-8">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-8" value="النِّهاية">
+				<input type="hidden" id="slidemap-8" value="0.238142">
+			</div>
+						<audio id="audio-8">
+				<source src="https://static.3asafeer.com/stories/26/audio/end-scene.mp3">
+				<source src="https://static.3asafeer.com/stories/26/audio/end-scene.ogg">
+			</audio>
+					</div>
+			<div id="publicend">
+			<div class="messagepane">
+				<h2>هل أحببت القصّة؟</h2>
+				<h3>شاركها مع الآخرين ولننشر المعرفة!</h3>
+				<i class="fab fa-facebook" onclick="verificationPopup('socialShare(\'facebook\');');" aria-hidden="true"></i>
+				<i class="fab fa-whatsapp" onclick="verificationPopup('socialShare(\'whatsapp\');');" aria-hidden="true"></i>
+				<i class="fab fa-twitter" onclick="verificationPopup('socialShare(\'twitter\');');" aria-hidden="true"></i>
+				<i class="fal fa-print" onclick="verificationPopup('printStory();');" aria-hidden="true"></i>
+			</div>
+		</div>
+		<div id="freeend">
+			<div class="messagepane" style="margin-top:10vh;">
+				<h2>رائع، لقد انتهيت من قراءة القصة!</h2>
+				<h3>إذا أردت قياس مدى استيعابك لما تقرؤه وأردت التدرّب على العديد من المهارات اللغوية الأخرى والاستمتاع بآلاف الموارد من الألعاب والقصص والحلقات الكرتونية والتمارين التفاعلية الممتعة يمكنك تجربة الاشتراك المميّز لمدة أسبوع مجانًا!</h3>
+				<img src="//static.3asafeer.com/images/trial/storyimage4.png" style="max-height:200px;"><br>
+				<button onclick="window.location='//3asafeer.com/ar/subscribe';">جرّب الآن!</button>
+			</div>
+		</div>
+		</div>
