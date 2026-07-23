@@ -1,0 +1,504 @@
+<div id="reel" style="width: 3000%; height: auto; opacity: 1; float: right; margin-right: -622.667px;">
+		<div class="slide" order="0" style="float:right;position:relative;width:3.3333333333333%;">
+			<div id="publisher">الناشر: دار عصافير</div>			<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/cover.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/cover.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/cover.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-0">ماما لَيْسَ اسْمُها ماما</div>
+				<input type="hidden" id="slide-script-0" value="ماما لَيْسَ اسْمُها ماما">
+				<input type="hidden" id="slidemap-0" value="1">
+			</div>
+						<audio id="audio-0" autoplay="">
+				<source src="//static.3asafeer.com/stories/1726/audio/cover.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/cover.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="1" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/1.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/1.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/1.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-1">مَرْحَبًا، هَلْ تَذْكُرونَني؟ أَنا لَيْلى عادِلٌ سامي  سَميرٌ الشِّبْلاويُّ. ماما، سامِيَةُ سَعيدٌ سَعْدٌ مَسْعودٌ السَّعْداويُّ.  أَسْكُنُ في: عَشَرَةٍ، شارِعِ مُـحْسِنٍ بِكْ الْبِبْلاويِّ.  رَقْمُ هاتِفِ ماما:  0094567891020 (صِفْرٌ صِفْرٌ تِسْعَةٌ أَرْبَعَةٌ خَمْسَةٌ سِتَّةٌ سَبْعَةٌ ثَمانِيَةٌ تِسْعَةٌ واحِدٌ صِفْرٌ اثْنانِ صِفْرٌ)</div>
+				<input type="hidden" id="slide-script-1" value="مَرْحَبًا، هَلْ تَذْكُرونَني؟ أَنا لَيْلى عادِلٌ سامي  سَميرٌ الشِّبْلاويُّ. ماما، سامِيَةُ سَعيدٌ سَعْدٌ مَسْعودٌ السَّعْداويُّ.  أَسْكُنُ في: عَشَرَةٍ، شارِعِ مُـحْسِنٍ بِكْ الْبِبْلاويِّ.  رَقْمُ هاتِفِ ماما:  0094567891020 (صِفْرٌ صِفْرٌ تِسْعَةٌ أَرْبَعَةٌ خَمْسَةٌ سِتَّةٌ سَبْعَةٌ ثَمانِيَةٌ تِسْعَةٌ واحِدٌ صِفْرٌ اثْنانِ صِفْرٌ)">
+				<input type="hidden" id="slidemap-1" value="1">
+			</div>
+						<audio id="audio-1" autoplay="">
+				<source src="//static.3asafeer.com/stories/1726/audio/1.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/1.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="2" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/2.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/2.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/2.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-2">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-2" value="تَذْكُرونَ حينَ رَكَضْتُ وَراءَ قِطَّةٍ في السّوقِ... ">
+				<input type="hidden" id="slidemap-2" value="1">
+			</div>
+						<audio id="audio-2">
+				<source src="//static.3asafeer.com/stories/1726/audio/2.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/2.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="3" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/3.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/3.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/3.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-3">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-3" value="ثُمَّ تُهْتُ مِنْ ماما، وَظَلِلْتُ أُناديها، وَيَسْأَلُني الْـجَميعُ: &quot;ما اسْمُ ماما يا صَغيرَةُ؟&quot;.">
+				<input type="hidden" id="slidemap-3" value="1">
+			</div>
+						<audio id="audio-3">
+				<source src="//static.3asafeer.com/stories/1726/audio/3.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/3.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="4" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/4.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/4.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/4.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-4">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-4" value="أَبْكي وَأَقولُ: &quot;ماما اسْمُها ماما... ماما اسْمُها ماما... ماما اسْمُها مامــــــــــا!&quot;">
+				<input type="hidden" id="slidemap-4" value="1">
+			</div>
+						<audio id="audio-4">
+				<source src="//static.3asafeer.com/stories/1726/audio/4.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/4.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="5" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/5.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/5.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/5.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-5">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-5" value="ظَلِلْتُ أَصْرُخُ، حَتّى وَجَدَتْني ماما، وَعُدْنا إلى الْبَيْتِ. ">
+				<input type="hidden" id="slidemap-5" value="1">
+			</div>
+						<audio id="audio-5">
+				<source src="//static.3asafeer.com/stories/1726/audio/5.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/5.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="6" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/6.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/6.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/6.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-6">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-6" value="يَوْمَها، حَفِظْتُ اسْمي، وَاسْمَ ماما، وَعُنْوانَ مَنْزِلِنا، وَرَقْمَ الْـهاتِفِ، وَكُلَّ شَيْءٍ. ">
+				<input type="hidden" id="slidemap-6" value="1">
+			</div>
+						<audio id="audio-6">
+				<source src="//static.3asafeer.com/stories/1726/audio/6.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/6.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="7" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/7.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/7.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/7.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-7">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-7" value="وَمُنْذُ ذلِكَ الْيَوْمِ، وَأَنا لا أَنْسى هذِهِ الْمَعْلوماتِ. وَكَيْ أَحْفَظَها جَيِّدًا، أَصْبَحْتُ أَسْتَخْدِمُها دائِمًا، أَعْتَقِدُ أَنَّني أَخْبَرْتُكُم بِها  مُنْذُ قَليلٍ.">
+				<input type="hidden" id="slidemap-7" value="1">
+			</div>
+						<audio id="audio-7">
+				<source src="//static.3asafeer.com/stories/1726/audio/7.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/7.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="8" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/8.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/8.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/8.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-8">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-8" value="أَوَّلَ أَمْسِ، ذَهَبْتُ إلى الْبَقّالِ، وَقُلْتُ لَهُ: &quot;مَرْحَبًا،  أَنا  لَيْلى، لَيْلى عادِلٌ سامي  سَميرٌ الشِّبْلاويُّ... ماما، سامِيَةُ سَعيدٌ سَعْدٌ مَسْعودٌ السَّعْداويُّ...  أَسْكُنُ في: عَشَرَةٍ، شارِعِ مُـحْسِنٍ بِكْ الْبِبْلاويِّ.  وَرَقْمُ هاتِفِ ماما؛  00... (صِفْرٌ صِفْرُ)... وَلكِنْ، قاطَعَني الْبَقّالُ ضاحِكًا، وَقال: &quot;ماذا تُريدينَ يا لَيْلى الْـحُلْوَةُ؟&quot;... قُلْتُ: &quot;أُريدُ بَسْكوتًا، وَمُثَلَّجاتٍ وَحَلْوى&quot;.">
+				<input type="hidden" id="slidemap-8" value="1">
+			</div>
+						<audio id="audio-8">
+				<source src="//static.3asafeer.com/stories/1726/audio/8.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/8.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="9" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/9.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/9.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/9.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-9">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-9" value="وَأَمْسِ، ذَهَبْتُ إلى الْـمَكْتَبَةِ، وَرَأَيْتُ كِتابًا، عَلَيْهِ كَلِمَةٌ تُشْبِهُ اسْمي، قُلْتُ لِلْبائِعِ:&quot;ما هذا الْكِتابُ؟&quot;... قالَ: &quot;إنَّها قِصَّةُ لَيْلى وَالذِّئْبِ&quot;. قُلْتُ لَهُ بِسَعادَةٍ: &quot;أَنا لَيْلى... أَنا لَيْلى!...  لَيْلى عادِلٌ سامي  سَميرٌ الشِّبْلاويُّ... ماما، سامِيَةُ سَعيدٌ سَعْدٌ مَسْعودٌ السَّعْداويُّ...  أَسْكُنُ في: عَشَرَةٍ... يُقاطِعُني، سائِلًا: &quot;لِـمَ تُـخْبِرينَني بِكُلِّ هذا؟ ... هَلْ تُريدينَ أَنْ أُرْسِلَ لَكُمُ الْقِصَّةَ عَبْرَ الْبَريدِ؟&quot;. أَرُدُّ: &quot;لا، سَآخُذُها الْآنَ بِالتَّأْكيدِ&quot;. ">
+				<input type="hidden" id="slidemap-9" value="1">
+			</div>
+						<audio id="audio-9">
+				<source src="//static.3asafeer.com/stories/1726/audio/9.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/9.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="10" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/10.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/10.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/10.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-10">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-10" value="أَمّا الْيَوْمَ، فَقَدْ ذَهَبْتُ مَعَ ماما صَباحًا إلى صالونِ التَّجْميلِ... قَصَّتْ لِـيَ الْـمُصَفِّفَةُ  شَعْري بِشَكْلٍ جَميلٍ، فَنَحْنُ نَسْتَعِدُّ لِـحُضورِحَفْلِ زِفافِ ابْنَةِ خالَةِ صَديقَةِ ماما، أَتَعْرِفونَ ما اسْمُ مُصَفِّفَةِ الشَّعْرِ؟... اسْمُها &quot;لولي&quot;. ">
+				<input type="hidden" id="slidemap-10" value="1">
+			</div>
+						<audio id="audio-10">
+				<source src="//static.3asafeer.com/stories/1726/audio/10.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/10.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="11" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/11.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/11.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/11.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-11">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-11" value="قُلْتُ لَـها: &quot;أَنا أَيْضًا اسْمي لولي، وَلكِنْ... اسْمي الْـحَقيقيُّ، لَيْلى... لَيْلى عادِلٌ سامي سَميرٌ الشِّبْلاويُّ،  وَهذِهِ الْـجالِسَةُ هُناكَ، ماما سامِيَةُ سَعيدٌ سَعْدٌ مَسْعودٌ السَّعْداويُّ...  نَسْكُنُ في: عَشَرَةٍ، شارِعِ مُـحْسِنٍ بِكْ الْبِبْلاويِّ... وَرَقْمُ هاتِفِ ماما...">
+				<input type="hidden" id="slidemap-11" value="1">
+			</div>
+						<audio id="audio-11">
+				<source src="//static.3asafeer.com/stories/1726/audio/11.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/11.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="12" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/12.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/12.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/12.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-12">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-12" value="رَكَضَتْ ماما نَحْوي، وَأَنْزَلَتْني عَنِ الْكُرْسيِّ... وَشَكَرَتِ السَّيِّدَةَ &quot;لولي&quot; عَلى تَسْريـحَةِ شَعْري الْـجَميلَةِ... ">
+				<input type="hidden" id="slidemap-12" value="1">
+			</div>
+						<audio id="audio-12">
+				<source src="//static.3asafeer.com/stories/1726/audio/12.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/12.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="13" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/13.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/13.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/13.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-13">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-13" value="قُلْتُ لَـها: &quot;انْتَظِري يا ماما، لَـمْ أُخْبِرْها بِرَقْمِ هاتِفِكِ بَعْدُ!&quot;...">
+				<input type="hidden" id="slidemap-13" value="1">
+			</div>
+						<audio id="audio-13">
+				<source src="//static.3asafeer.com/stories/1726/audio/13.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/13.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="14" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/14.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/14.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/14.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-14">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-14" value="قالَتْ ماما: &quot;حبيبَتي لولي، نَحْنُ لا نُخْبِرُ الْـجَميعَ بِمَعْلوماتٍ عَنّا، خاصَّةً إذا كانوا غُرَباءَ&quot;.  قُلْتُ: &quot;وَلكِنْ يا ماما، أَنْتِ جَعَلْتِني أَحْفَظُ هذِهِ الْـمَعْلوماتِ&quot;.  قالَتْ ماما: &quot;نَعَمْ، وَلكِنْ... لا نَقولُ هذا لِلْغُرَباءِ&quot;. قُلْتُ:&quot;حَسَنًا يا ماما! لَنْ أُخْبِرَ الْغُرَباءَ بِاسْمي، أَوِ اسْمِكِ أَبَدًا أَبَدًا أَبَدًااااااا&quot;.">
+				<input type="hidden" id="slidemap-14" value="1">
+			</div>
+						<audio id="audio-14">
+				<source src="//static.3asafeer.com/stories/1726/audio/14.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/14.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="15" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/15.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/15.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/15.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-15">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-15" value="وَأَخيرًا، وَصَلْنا إلى حَفْلِ الزِّفافِ، حَيْثُ الْكَثيرُ مِنَ الْـحَلْوى اللَّذيذَةِ. ">
+				<input type="hidden" id="slidemap-15" value="1">
+			</div>
+						<audio id="audio-15">
+				<source src="//static.3asafeer.com/stories/1726/audio/15.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/15.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="16" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/16.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/16.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/16.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-16">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-16" value="رَكَضْتُ نَحْوَ طاوِلَةِ الْـحَلْوى... كانَ هُناكَ الْكَثيرُ، وَلكِنّي أَخَذْتُ واحِدَةً فَقَطْ، فَماما عَلَّمَتْني سابِقًا أَلّا أُكْثِرَ مِنَ الْـحَلْوى، وَلكِنْ... ">
+				<input type="hidden" id="slidemap-16" value="1">
+			</div>
+						<audio id="audio-16">
+				<source src="//static.3asafeer.com/stories/1726/audio/16.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/16.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="17" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/17.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/17.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/17.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-17">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-17" value="ماما!...أَيْنَ ماما؟ ">
+				<input type="hidden" id="slidemap-17" value="1">
+			</div>
+						<audio id="audio-17">
+				<source src="//static.3asafeer.com/stories/1726/audio/17.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/17.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="18" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/18.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/18.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/18.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-18">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-18" value="صَرَخْتُ بِأَعْلى صَوْتٍ: &quot;ماما ماما، أَيْنَ أَنْتِ يا ماما؟&quot;. الْتَفَّ النّاسُ حَوْلي يَسْأَلونَني، ما اسْمُ ماما يا صَغيرَةُ؟... وَهُنا وَقَعْتُ في حَيْرَةٍ، وَلكِنّي أَجَبْتُ: &quot;ماما لَيْسَ اسْمُها ماما... ماما لَيْسَ اسْمُها ماما&quot;.">
+				<input type="hidden" id="slidemap-18" value="1">
+			</div>
+						<audio id="audio-18">
+				<source src="//static.3asafeer.com/stories/1726/audio/18.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/18.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="19" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/19.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/19.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/19.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-19">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-19" value="وَلكِنْ... يَبْدو أَنَّهُمْ لَـمْ يَفْهَموني، وَقالوا: &quot;نَعَمْ، ماما لَيْسَ اسْمُها ماما، ما هُوَ اسْمُها؟&quot;... أَبْكي، وَأَقولُ: &quot;أَنْتُمْ غُرَباءُ، وَيَـجِبُ أَلّا أُخْبِرَ الْغُرَباءَ بِاسْمِ مامــــــــــــا!&quot;. ">
+				<input type="hidden" id="slidemap-19" value="1">
+			</div>
+						<audio id="audio-19">
+				<source src="//static.3asafeer.com/stories/1726/audio/19.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/19.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="20" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/20.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/20.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/20.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-20">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-20" value="&quot;يا حبيَبتي! إذَنْ، أَخْبِرينا بِاسْمِكِ&quot;. &quot;لااااا... لا يُمْكِنُ أَنْ أُخْبِرَ الْغُرَباءَ بِاسْمي!&quot;.">
+				<input type="hidden" id="slidemap-20" value="1">
+			</div>
+						<audio id="audio-20">
+				<source src="//static.3asafeer.com/stories/1726/audio/20.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/20.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="21" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/21.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/21.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/21.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-21">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-21" value="وَظَلِلْتُ أَبْكي وَأَبْكي، حَتّى إنَّ الْعَروسَ جاءَتْ إلَـيَّ  تَـحْضُنُني وَتُطَمْئِنُني، حَتّى سَمِعْتُ صَوْتًا قادِمًا مِنْ مُكَبِّراتِ الصَّوْتِ. ">
+				<input type="hidden" id="slidemap-21" value="1">
+			</div>
+						<audio id="audio-21">
+				<source src="//static.3asafeer.com/stories/1726/audio/21.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/21.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="22" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/22.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/22.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/22.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-22">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-22" value="نَبْحَثُ عَنِ الطِّفْلَةِ لَيْلى عادِلٍ  الشِّبْلاويِّ. ماما، سامِيَةُ  سَعيدٌ السَّعْداويُّ تَبْحَثُ عَنْ لَيْلى عادِلٍ الشِّبْلاويِّ. ">
+				<input type="hidden" id="slidemap-22" value="1">
+			</div>
+						<audio id="audio-22">
+				<source src="//static.3asafeer.com/stories/1726/audio/22.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/22.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="23" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/23.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/23.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/23.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-23">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-23" value="هَلَّلْتُ فَرَحًا... أَنا لَيْلى، أَنا لَيْلى! أَخَذَتْني الْعَروسُ مَعَها أَجْلِسُ عَلى كُرْسيِّها حَتّى جاءَتْ ماما، وَأَخَذَتْني. ">
+				<input type="hidden" id="slidemap-23" value="1">
+			</div>
+						<audio id="audio-23">
+				<source src="//static.3asafeer.com/stories/1726/audio/23.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/23.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="24" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/24.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/24.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/24.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-24">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-24" value="قُلْتُ بِاسْتِغْرابٍ: &quot;كَيْفَ يا ماما تُـخْبِرينَ الْـجَميعَ بِاسْمي؟!... ماما! يَـجِبُ أَلّا نُخْبِرَ الْغُرَباءَ بِأَسْمائِنا!&quot;. ">
+				<input type="hidden" id="slidemap-24" value="1">
+			</div>
+						<audio id="audio-24">
+				<source src="//static.3asafeer.com/stories/1726/audio/24.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/24.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="25" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/25.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/25.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/25.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-25">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-25" value="ضَحِكَ الْـجَميعُ، وَعادَتْ مُكَبِّراتُ الصَّوْتِ تُشَغِّلُ الْأَغانِـيَ، وَكانَتِ الْأُغْنِيَةُ هذِهِ الْـمَرَّةَ مُـخَصَّصَةً لي. ">
+				<input type="hidden" id="slidemap-25" value="1">
+			</div>
+						<audio id="audio-25">
+				<source src="//static.3asafeer.com/stories/1726/audio/25.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/25.ogg">
+			</audio>
+					</div>
+			<div class="slide" order="26" style="float:right;position:relative;width:3.3333333333333%;">
+						<picture class="slide-image" style="width:100%;">
+				<source srcset="//static.3asafeer.com/stories/1726/images/end.webp" type="image/webp">
+				<source srcset="//static.3asafeer.com/stories/1726/images/end.jpg" type="image/jpg">
+				<img style="max-width:100%;" src="//static.3asafeer.com/stories/1726/images/end.jpg">
+			</picture>
+			<div class="scriptbackground" style="display:none;">
+				<div id="moreText"><img src="//static.3asafeer.com/images/more-text-small.gif"></div>
+				<div class="slide-script" id="script-26">
+				&nbsp;				</div>
+				<input type="hidden" id="slide-script-26" value="النِّهايَةُ">
+				<input type="hidden" id="slidemap-26" value="1">
+			</div>
+						<audio id="audio-26">
+				<source src="//static.3asafeer.com/stories/1726/audio/end.mp3">
+				<source src="//static.3asafeer.com/stories/1726/audio/end.ogg">
+			</audio>
+					</div>
+			<div id="publicend">
+			<div class="messagepane">
+				<h2>هل أحببت القصّة؟</h2>
+				<h3>شاركها مع الآخرين ولننشر المعرفة!</h3>
+				<i class="fab fa-facebook" onclick="verificationPopup('socialShare(\'facebook\');');" aria-hidden="true"></i>
+				<i class="fab fa-whatsapp" onclick="verificationPopup('socialShare(\'whatsapp\');');" aria-hidden="true"></i>
+				<i class="fab fa-twitter" onclick="verificationPopup('socialShare(\'twitter\');');" aria-hidden="true"></i>
+				<i class="fal fa-print" onclick="verificationPopup('printStory();');" aria-hidden="true"></i>
+			</div>
+		</div>
+		<div id="freeend">
+			<div class="messagepane" style="margin-top:10vh;">
+				<h2>رائع، لقد انتهيت من قراءة القصة!</h2>
+				<h3>إذا أردت قياس مدى استيعابك لما تقرؤه وأردت التدرّب على العديد من المهارات اللغوية الأخرى والاستمتاع بآلاف الموارد من الألعاب والقصص والحلقات الكرتونية والتمارين التفاعلية الممتعة يمكنك تجربة الاشتراك المميّز لمدة أسبوع مجانًا!</h3>
+				<img src="//static.3asafeer.com/images/trial/storyimage4.png" style="max-height:200px;"><br>
+				<button onclick="window.location='//3asafeer.com/ar/subscribe';">جرّب الآن!</button>
+			</div>
+		</div>
+		</div>
